@@ -19,7 +19,8 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', serif;
-  font-weight: 400;
+  /*font-family: brandon-grotesque, sans-serif;*/
+  font-weight: 100;
   text-transform: uppercase;
   color: #343a40;
 }
@@ -46,7 +47,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #ff4040;
+  color: #798087;
 }
 
 .list-social-icons a .fa-lg {
@@ -69,9 +70,9 @@ h2 {
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
-    position: fixed;
+    position: right;
     top: 0;
-    left: 0;
+    right: 0;
     display: flex;
     flex-direction: column;
     width: 17rem;
@@ -83,9 +84,9 @@ h2 {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 11rem;
+    max-height: 11rem;
+    border: 0.4rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: flex;
