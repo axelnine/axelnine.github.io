@@ -18,8 +18,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
-  font-weight: 700;
+  font-family: 'Open Sans', serif;
+  font-weight: 400;
   text-transform: uppercase;
   color: #343a40;
 }
@@ -137,11 +137,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #ff4040 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #ff4040;
 }
 
 a:hover, a:focus, a:active {
