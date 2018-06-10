@@ -34,10 +34,11 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
-  font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem;
+  /*text-transform: uppercase;*/
+  font-weight: 200;
+  /*font-family: 'Saira Extra Condensed', serif;*/
+  font-family: 'Open Sans', serif;
+  font-size: 1.25rem;
 }
 
 .list-social-icons a {
@@ -45,11 +46,11 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #ff4040;
 }
 
 .list-social-icons a .fa-lg {
-  font-size: 1.75rem;
+  font-size: 1.25rem;
 }
 
 .list-icons {
@@ -57,7 +58,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #ff4040;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -145,5 +146,6 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  /*color: #824027;*/
+  color: #ff4040;
 }
